@@ -1,6 +1,12 @@
 # HuaweiNotify
 
-Tên ứng dụng và tệp cài đặt: **HuaweiNotifyBeta**. Tải bản thử nghiệm trong thư mục [`apk/`](apk/HuaweiNotifyBeta.apk).
+Tên ứng dụng và tệp cài đặt: **HuaweiNotifyBeta**.
+
+## Tải APK
+
+[**⬇ Tải HuaweiNotifyBeta.apk**](https://github.com/ngngocloi/HuaweiNotify/releases/download/v0.1.0-beta/HuaweiNotifyBeta.apk)
+
+[Trang phát hành v0.1.0-beta](https://github.com/ngngocloi/HuaweiNotify/releases/tag/v0.1.0-beta) · Chọn `HuaweiNotifyBeta.apk` trong **Assets** để tải trực tiếp trên GitHub.
 
 Ứng dụng Android thử nghiệm hỗ trợ kiểm tra và cấu hình thông báo trên Huawei. Giao diện tiếng Việt, Android 6.0 trở lên, không phụ thuộc Google SDK hoặc dịch vụ đám mây riêng.
 
