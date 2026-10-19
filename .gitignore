@@ -1,0 +1,13 @@
+.gradle/
+**/build/
+local.properties
+.idea/
+*.iml
+*.jks
+*.keystore
+*.idsig
+tools/huawei-state*
+__pycache__/
+*.pyc
+dist/
+test-output/
