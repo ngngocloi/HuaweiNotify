@@ -5,7 +5,8 @@
 - Chữ ký APK v1/v2/v3 hợp lệ; kiểm tra zipalign và cấu trúc ZIP thành công.
 - 9 bài kiểm tra Python cho helper ADB đều qua.
 - CoreTest Java kiểm tra đầu vào không an toàn và nội dung lệnh được tạo: qua.
-- Chưa chạy Android Lint/Gradle, GitHub Actions, emulator hoặc kiểm thử thiết bị Huawei thật.
+- Chưa chạy Android Lint/Gradle, emulator hoặc kiểm thử thiết bị Huawei thật.
+- GitHub Actions đã được kích hoạt nhưng job không khởi chạy do tài khoản GitHub bị khóa bởi vấn đề thanh toán; chưa có kết quả CI.
 - Chưa xác minh hiệu quả nhận thông báo FCM/HMS. Cần phép thử trên model và build cụ thể.
 
 APK SHA-256:

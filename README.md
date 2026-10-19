@@ -70,7 +70,7 @@ python3 tools/build_apk.py --android-jar /path/to/platforms/android-35/android.j
 
 Nếu môi trường chỉ có Java runtime, có thể thêm `--ecj /path/to/ecj.jar` với Eclipse Compiler for Java 3.36.0. Công cụ này tạo APK trong `dist/`, ký bằng khóa phát triển `~/.android/debug.keystore`. Giữ cùng khóa để cập nhật đè các bản tự build; bản ký bằng khóa khác có thể cần gỡ bản cũ trước khi cài. Không commit keystore.
 
-Workflow `.github/workflows/android.yml` đã chuẩn bị để build, lint và xuất APK khi mã nguồn được đẩy vào repo GitHub. Chưa chạy GitHub Actions trong phiên tạo bản beta này.
+Workflow `.github/workflows/android.yml` dùng để build, lint và xuất APK tên `HuaweiNotifyBeta.apk`. Lần chạy đầu trên GitHub bị chặn trước khi cấp runner vì tài khoản gặp vấn đề thanh toán, nên chưa có kết quả build/lint từ CI. APK trong `apk/` được biên dịch và ký cục bộ.
 
 ## Kiểm tra
 
